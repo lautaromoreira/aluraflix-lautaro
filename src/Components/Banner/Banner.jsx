@@ -14,7 +14,7 @@ const Banner = ({ video }) => {
 
       <BannerContent>
         <div>
-          <BannerTitle category={video.categoria}>
+          <BannerTitle $category={video.categoria}>
             {video.categoria}
           </BannerTitle>
           <BannerDescription>{video.descripcion}</BannerDescription>
