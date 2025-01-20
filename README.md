@@ -1,6 +1,5 @@
 # Aluraflix
 
-![Aluraflix]()
 
 Aluraflix es una aplicación de catálogo de videos inspirada en Netflix, diseñada para administrar y visualizar videos organizados por categorías. Este proyecto es parte de un desafío del programa Oracle Next Education (ONE).
 
