@@ -3,6 +3,10 @@
 
 Aluraflix es una aplicación de catálogo de videos inspirada en Netflix, diseñada para administrar y visualizar videos organizados por categorías. Este proyecto es parte de un desafío del programa Oracle Next Education (ONE).
 
+Este proyecto esta basado en la solucion entregada por Alura para la resolucion del challenge.
+
+Tambien es un proyecto en desarrollo el que voy completando a medida que aprendo.
+
 ---
 
 ## **Características**
